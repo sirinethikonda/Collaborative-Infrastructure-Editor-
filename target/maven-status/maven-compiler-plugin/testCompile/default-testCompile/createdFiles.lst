@@ -1,0 +1,5 @@
+internal\api\RoutesAndWebSocketTest.class
+internal\storage\RepositoryTest.class
+internal\ot\TransformTest.class
+internal\api\RoutesAndWebSocketTest$TestWebSocketSession.class
+validation\RunnerTest.class
